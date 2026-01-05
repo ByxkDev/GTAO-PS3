@@ -23,7 +23,7 @@ cmd -> Caddy Run --config caddy.json
 
 You will need this to run your server:
 
-[U can patch and build your own eboot with this code](https://github.com/Safauri/patch_eboots/)
+[U can patch the domain in eboot with this code](https://github.com/Safauri/patch_eboots/)
 
 **Point it to your ros domain u bought** 
 
