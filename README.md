@@ -21,9 +21,7 @@ cmd -> Caddy Run --config caddy.json
 
 ## Required Files
 
-You will need one of these EBOOTs to run the server:
-
-[GTA EBOOTs Collection](https://cdn.discordapp.com/attachments/1378496462693994618/1441881014287728701/GTA_eboots.rar?ex=69542f56&is=6952ddd6&hm=467da643afa946234dd57b42908720862831022c0442bcfc1ead5750a18204ec&)
+You will need this to run your server:
 
 [U can patch and build your own eboot with this code](https://github.com/Safauri/patch_eboots/)
 
