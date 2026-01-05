@@ -51,6 +51,6 @@ Thanks to the following contributors:
 - Dread  
 - Avieah
 - Ventura **(check.json, eventschedule-en.json)**
-- Bababoey88 **(README SETUP, UGC FIXES, Tracks ID's)**
-- SkyDreamMoDz **(AUTH AND XUID FIXES, tracks.json)**
-- ByxkDev **(VPS TUT, UGC Publish)**
+- Bababoey88 **(ReadMe Setup, UGC Fixes, Tracks ID's)**
+- SkyDreamMoDz **(AUTH And XUID Fixes, tracks.json)**
+- ByxkDev **(VPS Tutorial, UGC Publish)**
