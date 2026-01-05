@@ -27,9 +27,9 @@ You will need one of these EBOOTs to run the server:
 
 [U can patch and build your own eboot with this code](https://github.com/Saufari/patch_eboots/)
 
-[U can buy a Windows VPS here](https://www.ovhcloud.com/en/vps/)
-
 **Point it to your ros domain u bought** 
+
+[U can buy a Windows VPS here](https://www.ovhcloud.com/en/vps/) 
 
 [u can buy cheap domains here](https://spaceship.com)
 
