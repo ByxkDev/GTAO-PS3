@@ -4,7 +4,7 @@
 
 ## Running on VPS
 
-To test the server on VPS, GTA Online needs to redirect certain Rockstar endpoints to your server. This can be done via **IIS Manager** on your **Windows OVH VPS**.  
+To test the server on VPS, GTA Online needs to be redirected to certain Rockstar endpoints from your server. This can be done via **IIS Manager** on your **Windows OVH VPS**.  
 Domains to redirect:
 
 - `ros.gtao.ca`
@@ -12,6 +12,8 @@ Domains to redirect:
 - ros -> POST Reqeust to 'prod.ros.gtao.ca
   
 U can point ur **VPS IP** to your domains in **IIS Manager**
+
+Install **Caddy** make a config file with your **domains** and point it to your **VPS IP** in caddy.json
 
 ## Required Files
 
