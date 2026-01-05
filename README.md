@@ -49,6 +49,7 @@ Thanks to the following contributors:
 - Snow  
 - Atlas  
 - Dread  
-- Avieah  
-- Bababoey88 **(UGC FIXES)**
-- SkyDreamMoDz **(AUTH, XUID FIXES)**
+- Avieah
+- Ventura **(check.json, eventschedule-en.json)**
+- Bababoey88 **(UGC FIXES, Tracks ID's)**
+- SkyDreamMoDz **(AUTH AND XUID FIXES, tracks.json)**
