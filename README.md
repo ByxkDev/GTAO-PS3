@@ -29,7 +29,7 @@ You will need this to run your server:
 
 [U can buy a Windows VPS here](https://www.ovhcloud.com/en/vps/) 
 
-[u can buy cheap domains here](https://spaceship.com)
+[U can buy cheap domains here](https://spaceship.com)
 
 ## Contributions
 
