@@ -11,7 +11,7 @@ Domains to redirect:
 - ros -> GET Reqeust to 'tunables.gtao.ca
 - ros -> POST Reqeust to 'prod.ros.gtao.ca
   
-  U can point ur **VPS IP** to your domains in **ISS Manager**
+U can point ur **VPS IP** to your domains in **ISS Manager**
 
 ## Required Files
 
