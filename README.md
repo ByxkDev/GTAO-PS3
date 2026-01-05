@@ -53,4 +53,4 @@ Thanks to the following contributors:
 - Ventura **(check.json, eventschedule-en.json)**
 - Bababoey88 **(ReadMe Setup, UGC Fixes, Tracks ID's)**
 - SkyDreamMoDz **(AUTH And XUID Fixes, tracks.json)**
-- ByxkDev **(VPS Tutorial, UGC Publish)**
+- ByxkDev **(VPS Tutorial, UGC Publish + Discord Embed Function)**
