@@ -13,7 +13,11 @@ Domains to redirect:
   
 U can point ur **VPS IP** to your domains in **IIS Manager**
 
-Install **Caddy** make a config file with your **domains** and point it to your **VPS IP** in caddy.json to **redirect your ros domain to the sub-domains**
+Install **Caddy** make a config file called **caddy.json**
+
+**redirect your ros domain to the sub-domains in caddy.json**
+
+cmd -> Caddy Run --config caddy.json
 
 ## Required Files
 
