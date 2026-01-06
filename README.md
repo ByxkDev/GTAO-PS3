@@ -25,7 +25,7 @@ You will need this to run your server:
 
 [U can patch the domain in eboot with this code](https://github.com/Safauri/patch_eboots/)
 
-**Point it to your ros sub-domain, u need buy a normal domain first** 
+**Point it to your ros sub-domain, u need to buy a normal domain first** 
 
 [U can buy a Windows VPS here](https://www.ovhcloud.com/en/vps/) 
 
