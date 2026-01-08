@@ -1,4 +1,4 @@
-# GTAO PS3
+9# GTAO PS3
 
 > **Note:** This server currently supports **PS3 only**. **Xbox 360 support is not implemented**, as testing hardware is unavailable.
 
@@ -51,6 +51,5 @@ Thanks to the following contributors:
 - Dread  
 - Avieah
 - Ventura **(check.json, eventschedule-en.json)**
-- Bababoey88 **(ReadMe Setup, UGC Fixes, Tracks ID's)**
 - SkyDreamMoDz **(AUTH And XUID Fixes, tracks.json)**
 - ByxkDev **(VPS Tutorial, UGC Publish + Discord Embed Function)**
