@@ -1,4 +1,4 @@
-9# GTAO PS3
+## GTAO PS3
 
 > **Note:** This server currently supports **PS3 only**. **Xbox 360 support is not implemented**, as testing hardware is unavailable.
 
